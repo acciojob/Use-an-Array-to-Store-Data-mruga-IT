@@ -1,1 +1,2 @@
-let yourArray = ["apple", 42, true, "banana", false];
+let yourArray = ['one', 2, 'three', true, false, undefined, null];
+cconsole.log(yourArray.length);
